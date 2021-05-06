@@ -1,0 +1,35 @@
+REGEDIT4
+
+; User: stike
+[HKEY_CURRENT_USER\Environment]
+"ChocolateyLastPathUpdate"="132646885017443114"
+"ChocolateyToolsLocation"="C:\\tools"
+"MOZ_PLUGIN_PATH"="C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\plugins\\"
+"OneDrive"=hex(2):43,3A,5C,55,73,65,72,73,5C,73,74,69,6B,65,5C,4F,6E,65,44,72,69,76,65,00
+"Path"="C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files (x86)\\Embarcadero\\Studio\\20.0\\bin;C:\\MinGW\\bin;C:\\Users\\Public\\Documents\\Embarcadero\\Studio\\20.0\\Bpl;C:\\Program Files (x86)\\Embarcadero\\Studio\\20.0\\bin64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PowerShell\\7\\;C:\\Program Files\\Sysinternals Suite\\;C:\\Program Files\\dotnet\\;C:\\ProgramData\\chocolatey\\lib\\mpv.install\\tools;C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin;C:\\Program Files\\Notepad++;C:\\Program Files (x86)\\Bitvise SSH Client;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\dcrypt;C:\\Users\\stike\\source\\repos\\nixutils\\x64;C:\\Program Files\\CMake\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\nodejs\\;C:\\Users\\stike\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\stike\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\stike\\source\\repos\\thiengui\\thiengui\\bin\\Release\\;C:\\Users\\stike\\source\\repos\\thiendrv\\x64\\Release;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\x64;C:\\Users\\stike\\AppData\\Local\\Programs\\Common\\mpv;%CLion%;C:\\Users\\stike\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Program Files (x86)\\Nmap;C:\\Users\\stike\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin;C:\\Users\\stike\\AppData\\Local\\Programs\\Fiddler"
+"TEMP"=hex(2):25,55,53,45,52,50,52,4F,46,49,4C,45,25,5C,41,70,70,44,61,74,61,5C,4C,6F,63,61,6C,5C,54,65,6D,70,00
+"TMP"=hex(2):25,55,53,45,52,50,52,4F,46,49,4C,45,25,5C,41,70,70,44,61,74,61,5C,4C,6F,63,61,6C,5C,54,65,6D,70,00
+"_NT_SYMBOL_PATH"="srv*c:\\symbols*https://msdl.microsoft.com/download/symbols"
+
+; System variables
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment]
+"ChocolateyInstall"="C:\\ProgramData\\chocolatey"
+"ComSpec"=hex(2):25,53,79,73,74,65,6D,52,6F,6F,74,25,5C,73,79,73,74,65,6D,33,32,5C,63,6D,64,2E,65,78,65,00
+"DriverData"="C:\\Windows\\System32\\Drivers\\DriverData"
+"NUMBER_OF_PROCESSORS"="4"
+"OS"="Windows_NT"
+"Path"="C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files (x86)\\Embarcadero\\Studio\\20.0\\bin;C:\\MinGW\\bin;C:\\Users\\Public\\Documents\\Embarcadero\\Studio\\20.0\\Bpl;C:\\Program Files (x86)\\Embarcadero\\Studio\\20.0\\bin64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PowerShell\\7\\;C:\\Program Files\\Sysinternals Suite\\;C:\\Program Files\\dotnet\\;C:\\ProgramData\\chocolatey\\lib\\mpv.install\\tools;C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin;C:\\Program Files\\Notepad++;C:\\Program Files (x86)\\Bitvise SSH Client;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\dcrypt;C:\\Users\\stike\\source\\repos\\nixutils\\x64;C:\\Program Files\\CMake\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\nodejs\\;C:\\Users\\stike\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\stike\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\stike\\source\\repos\\thiengui\\thiengui\\bin\\Release\\;C:\\Users\\stike\\source\\repos\\thiendrv\\x64\\Release;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\x64;C:\\Users\\stike\\AppData\\Local\\Programs\\Common\\mpv;%CLion%;C:\\Users\\stike\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Program Files (x86)\\Nmap;C:\\Users\\stike\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin;C:\\Users\\stike\\AppData\\Local\\Programs\\Fiddler"
+"PATHEXT"=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+"POWERSHELL_DISTRIBUTION_CHANNEL"="MSI:Windows 10 Pro"
+"PROCESSOR_ARCHITECTURE"="AMD64"
+"PROCESSOR_IDENTIFIER"="Intel64 Family 6 Model 76 Stepping 4, GenuineIntel"
+"PROCESSOR_LEVEL"="6"
+"PROCESSOR_REVISION"="4c04"
+"PSModulePath"=hex(2):25,50,72,6F,67,72,61,6D,46,69,6C,65,73,25,5C,57,69,6E,64,6F,77,73,50,6F,77,65,72,53,68,65,6C,6C,5C,4D,6F,64,75,6C,65,73,3B,25,53,79,73,74,65,6D,52,6F,6F,74,25,5C,73,79,73,74,65,6D,33,32,5C,57,69,6E,64,6F,77,73,50,6F,77,65,72,53,68,65,6C,6C,5C,76,31,2E,30,5C,4D,6F,64,75,6C,65,73,00
+"TEMP"=hex(2):25,53,79,73,74,65,6D,52,6F,6F,74,25,5C,54,45,4D,50,00
+"TMP"=hex(2):25,53,79,73,74,65,6D,52,6F,6F,74,25,5C,54,45,4D,50,00
+"USERNAME"="SYSTEM"
+"VBOX_MSI_INSTALL_PATH"="C:\\Program Files\\Oracle\\VirtualBox\\"
+"VS140COMNTOOLS"="C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\Tools\\"
+"windir"=hex(2):25,53,79,73,74,65,6D,52,6F,6F,74,25,00
+"_NT_SYMBOL_PATH"="srv*c:\\symbols*https://msdl.microsoft.com/download/symbols"
